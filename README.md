@@ -6,7 +6,7 @@ I love coding, whether that be in my free time to create projects like [Boiling 
 Check out my projects & research endeavours in my portfolio [here](https://sn82978.github.io/)!
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
-- Resume: [[Updated 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
+- Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
 - Current Favorite Song: ["HBA" by Playboi Carti](https://www.youtube.com/watch?v=BeuKg_3CCOc)
 
 
