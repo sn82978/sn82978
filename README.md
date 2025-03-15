@@ -1,4 +1,13 @@
-## Hi! I'm Shreya :)
-I'm a second year Computer Science major at UC Irvine, interested in Artificial Intelligence and Systems! 
+## Shreya N. 🎞️
+I'm a undergraduate at the University of California, Irvine studying Computer Science with Honors. I'm interested in research in AI (in regards to its interdisciplinary applications) and Distributed Systems.
+
+I love coding, whether that be in my free time to create projects like [Boiling Bad](https://sn82978.github.io/BOILING-BAD/), or in my work at [Rose Mueller Laboratories](https://rosemuellerlabs.bio.uci.edu/), using AI in fields like evolutionary biology.
+
+Check out my projects & research endeavours in my portfolio [here](https://sn82978.github.io/)!
+
+- Email: [snakum@uci.edu](mailto:snakum@uci.edu)
+- Resume: [[Updated 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
+- Current Favorite Song: ["HBA" by Playboi Carti](https://www.youtube.com/watch?v=BeuKg_3CCOc)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978)](https://git.io/streak-stats)
