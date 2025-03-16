@@ -11,3 +11,5 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978)](https://git.io/streak-stats)
+
+<img width="1375" alt="Screenshot 2025-02-27 at 1 46 56 PM" src="https://github.com/user-attachments/assets/8a994977-7a53-478f-a61a-67f68a516e99" />
