@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
-- Current Favorite Song: ["HBA" by Playboi Carti](https://www.youtube.com/watch?v=BeuKg_3CCOc)
+- Current Favorite Song: ["365" by Charli xcx]([https://www.youtube.com/watch?v=BeuKg_3CCOc](https://www.youtube.com/watch?v=Ol9CCM240Ag))
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978)](https://git.io/streak-stats)
