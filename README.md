@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
-- Current Favorite Song: ["POOKIE'S REQUIEM" by SAILORR ft. Summer Walker](https://www.youtube.com/watch?v=cygmozoGLI8)
+- Current Favorite Song: ["EoO" by Bad Bunny](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8?si=3208b184ea4744f0)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978)](https://git.io/streak-stats)
