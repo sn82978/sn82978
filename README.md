@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
-- Current Favorite Song: ["It Wasn't Me" by Shaggy](https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf?si=12c8c68c04ad40bf)
+- Current Favorite Song: ["Love in Store" by Fleetwood Mac](https://open.spotify.com/track/41tJM6A0L02Rw6JSS5iThp?si=e05d7d4f49c0435b)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978)](https://git.io/streak-stats)
