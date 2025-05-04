@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
-- Current Favorite Song: ["Can't Hold Me Down" by Doodles](https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV?si=na5vFfXVTCS_2lGno6jzoA)
+- Current Favorite Song: ["That's Alright" by Fleetwood Mac](https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7?si=770792e163e24935)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978)](https://git.io/streak-stats)
