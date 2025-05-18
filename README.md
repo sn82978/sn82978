@@ -1,4 +1,4 @@
-## Shreya N. 🎞️
+## Shreya N. 💽📡📟
 I'm a undergraduate at the University of California, Irvine studying Computer Science with Honors. I'm interested in research in AI (in regards to its interdisciplinary applications).
 
 I love coding, whether that be in my free time to create projects like [Boiling Bad](https://sn82978.github.io/BOILING-BAD/), or in my work at [Rose Mueller Laboratories](https://rosemuellerlabs.bio.uci.edu/), using AI in fields like evolutionary biology.
