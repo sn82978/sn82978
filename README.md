@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
-- Current Favorite Song: ["Gimme Little Sign" by Brenton Wood](https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07?si=ea5abfe67c774bc5)
+- Current Favorite Song: ["NO COMMENTS" by Don Toliver](https://www.youtube.com/watch?v=jNFt8a7kSmQ)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978&theme=dark)](https://git.io/streak-stats)
