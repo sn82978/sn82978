@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/14/25]](https://drive.google.com/file/d/18Q8WNwC_vFKxLsTCQFOm11L_ODkL4HEl/view?usp=sharing)
-- Current Favorite Song: ["Turn Heads" by Dem Franchise Boys, Lloyd](https://open.spotify.com/track/7uVg9fXqAPpRo7kdoYLKjA?si=4b1c924a75094ff6)
+- Current Favorite Song: ["Palace/Curse (feat. Tyler, The Creator & Steve Lacy)" by The Internet, Tyler, the Creator, Steve Lacy](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA?si=5ec883d55e684bc5)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978&theme=dark)](https://git.io/streak-stats)
