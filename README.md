@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 08/12/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Palace/Curse (feat. Tyler, The Creator & Steve Lacy)" by The Internet, Tyler, the Creator, Steve Lacy](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA?si=5ec883d55e684bc5)
+- Current Favorite Song: ["Mando Calrissian" by CZARFACE, MF DOOM](https://open.spotify.com/track/13Sf8s6OLiI4IWn8V3rVwP?si=f7efb3ce2672461c)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978&theme=dark)](https://git.io/streak-stats)
