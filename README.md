@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 08/12/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Evian" by GoldLink](https://open.spotify.com/track/5uakDGEx9HegMZZi840VzH?si=e096506d5d9f4486)
+- Current Favorite Song: ["Count Contessa" by Azealia Banks, Lone](https://open.spotify.com/track/4QpGrDM7EsvbeaZ5G1Nu3j?si=2ec7581d52514c04)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978&theme=dark)](https://git.io/streak-stats)
