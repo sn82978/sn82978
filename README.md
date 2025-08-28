@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 08/12/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Count Contessa" by Azealia Banks, Lone](https://open.spotify.com/track/4QpGrDM7EsvbeaZ5G1Nu3j?si=2ec7581d52514c04)
+- Current Favorite Song: ["White Room" by Cream](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG?si=8bee26fd7c3e49ac)
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
