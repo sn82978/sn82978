@@ -6,8 +6,8 @@ I love coding (and _Linux_), whether that be in my free time to create projects 
 Check out my projects & research endeavours in my portfolio [here](https://sn82978.github.io/)!
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
-- Resume: [[Last Update: 08/12/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["White Room" by Cream](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG?si=8bee26fd7c3e49ac)
+- Resume: [[Last Update: 09/04/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
+- Current Favorite Song: ["HOT WIND BLOWS (feat. Lil Wayne)" by Tyler, the Creator, Lil Wayne](https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs?si=821103cf3f584edf)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=octocat&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
