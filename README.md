@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 09/04/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Safed Musli" by MF DOOM](https://open.spotify.com/track/48Reg1JDcqB897buTLNpaU?si=c71ef085644746bb)
+- Current Favorite Song: ["Walk in the Park" by Feng](https://open.spotify.com/track/29dWvg6IYX0bJwdJv9a0GJ?si=37d08e4774bf4d4f)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
