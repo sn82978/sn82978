@@ -1,4 +1,4 @@
-# 𝙨𝙝𝙧𝙚𝙮𝙖 𝙣𝙖𝙠𝙪𝙢 🌌 🎧
+# 𝙨𝙝𝙧𝙚𝙮𝙖 𝙣𝙖𝙠𝙪𝙢 🌌 🎧 ☃️
 I'm a undergraduate at the University of California, Irvine studying Computer Science! I am a part of UCI's Campus Honors Collegium and Information & Computer Science Honors Program. I'm interested in research in AI (in regards to its interdisciplinary applications).
 
 I love coding (and _Linux_), whether that be in my free time to create projects like [Boiling Bad](https://sn82978.github.io/BOILING-BAD/), or in my work at [Rose Mueller Laboratories](https://rosemuellerlabs.bio.uci.edu/), where I use AI in fields like evolutionary biology.
