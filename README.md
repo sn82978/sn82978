@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 11/28/25]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Nangs" by Tame Impala](https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q?si=a683b1df23924b45)
+- Current Favorite Song: ["Deacon Blues" by Steely Dan](https://www.youtube.com/watch?v=wdoCQn_Tjac)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
