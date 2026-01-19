@@ -6,7 +6,7 @@ I love coding (and _Linux_), whether that be in my free time to create projects 
 Check out my projects & research endeavours in my portfolio [here](https://sn82978.github.io/)!
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
-- Resume: [[Last Update: 01/07/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
+- Resume: [[Last Update: 01/18/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
 - Current Favorite Song: ["20190724" by Mac DeMarco](https://open.spotify.com/track/6unIOeUaYgBZ8TgCWNGDPX?si=f4a03f342bed424e)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
