@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 03/09/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["DOG HOUSE" by Drake, Julia Wolf & Yeat](https://www.youtube.com/watch?v=NESMSBcqfVI&list=RDNESMSBcqfVI&start_radio=1)
+- Current Favorite Song: ["We Trying To Stay Alive (feat. John Forté & Pras)" by Wyclef Jean](https://open.spotify.com/track/4wwRROf47MXBX5u5Knwixx?si=34095430d4fa463b)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
