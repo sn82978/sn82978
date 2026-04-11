@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 04/09/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Rattled by the Rush" by Pavement](https://open.spotify.com/track/1nYg1Ac4xsGBkmTvhXDzG2?si=92e0cf1010164363)
+- Current Favorite Song: ["You Are a Light" by Pavement](https://open.spotify.com/track/0EkOGNw3vtM7jq7PBdZids?si=8f70f07d67714609)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
