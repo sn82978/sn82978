@@ -6,7 +6,7 @@ I love coding (and _Linux_), whether that be in my free time to create projects 
 Check out my projects & research endeavours in my portfolio [here](https://sn82978.github.io/)!
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
-- Resume: [[Last Update: 03/09/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
+- Resume: [[Last Update: 04/09/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
 - Current Favorite Song: ["Rattled by the Rush" by Pavement](https://open.spotify.com/track/1nYg1Ac4xsGBkmTvhXDzG2?si=92e0cf1010164363)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
