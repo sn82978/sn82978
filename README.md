@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 04/09/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Night Fever" by Bee Gees](https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg?si=0ebe18a5b8da4131)
+- Current Favorite Song: ["Summertime" by The Sundays](https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo?si=da7ef13d9af94f4f)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
