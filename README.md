@@ -16,5 +16,3 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 <img width="1375" alt="Screenshot 2025-02-27 at 1 46 56 PM" src="https://github.com/user-attachments/assets/8a994977-7a53-478f-a61a-67f68a516e99" />
 
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
-
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/3602a9eb-8ab6-4bd2-9a89-d7630825a5e5" />
