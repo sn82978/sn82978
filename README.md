@@ -9,6 +9,8 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 - Resume: [[Last Update: 07/12/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
 - Current Favorite Song: ["Left Hand Free" by alt-J](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN?si=9a45a9d5cc8e4e3c).
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsn82978&label=sn82978&icon=github&color=%230a58ca&message=&style=flat&tz=UTC)
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sn82978?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sn82978&theme=dark)](https://git.io/streak-stats)
