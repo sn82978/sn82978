@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 07/12/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["XY" by Feng](https://open.spotify.com/track/0DFKqhoeM3LGHTY4wIuS9V?si=a62d34b05918401c).
+- Current Favorite Song: ["Here's Where the Story Ends" by The Sundays](https://open.spotify.com/track/67Tp0vRSc3yJU0z1UQMD7B?si=43c7b922803947bf).
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsn82978&label=sn82978&icon=github&color=%230a58ca&message=&style=flat&tz=UTC)
 
