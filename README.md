@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 07/12/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Here's Where the Story Ends" by The Sundays](https://open.spotify.com/track/67Tp0vRSc3yJU0z1UQMD7B?si=43c7b922803947bf).
+- Current Favorite Song: ["Luv Drunk" by Dom Corleo]().
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsn82978&label=sn82978&icon=github&color=%230a58ca&message=&style=flat&tz=UTC)
 
