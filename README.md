@@ -6,8 +6,8 @@ I love coding (and _Linux_), whether that be in my free time to create projects 
 Check out my projects & research endeavours in my portfolio [here](https://sn82978.github.io/)!
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
-- Resume: [[Last Update: 07/12/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: "Luv Drunk" by Dom Corleo.
+- Resume: [[Last Update: 10/04/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
+- Current Favorite Song: "War Pigs" by Black Sabbath.
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsn82978&label=sn82978&icon=github&color=%230a58ca&message=&style=flat&tz=UTC)
 
