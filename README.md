@@ -7,7 +7,7 @@ Check out my projects & research endeavours in my portfolio [here](https://sn829
 
 - Email: [snakum@uci.edu](mailto:snakum@uci.edu)
 - Resume: [[Last Update: 10/04/26]](https://www.overleaf.com/read/xybzcsttbhfw#5b2f24)
-- Current Favorite Song: ["Sexy Magic"](https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF?si=0e1c3c67d50d4fae) from GTA VI.
+- Current Favorite Song: Bandit by EsDeeKid.
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsn82978&label=sn82978&icon=github&color=%230a58ca&message=&style=flat&tz=UTC)
 
